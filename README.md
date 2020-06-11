@@ -1,4 +1,4 @@
-# Coursera_Capstone - Restaurants in Mississauga as a measure the city's diversity 
+# Coursera_Capstone - Restaurants in Mississauga as a measure of the city's diversity 
 The contains all the projects associated with Coursera Data Science Capstone
 
 ### Introduction
