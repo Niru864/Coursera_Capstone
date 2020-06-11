@@ -12,7 +12,7 @@ Canada is a country shaped by its immigrants and their descendants. Toronto, Van
 
 Problem: Can I use 'Restaurants' as a measure of diversity in the city of Mississauga? Is there a correlation between top 5 restaurant types (defined by cuisine) and the top 5 immigrant groups/visible minorities residing in the city? 
 
-Interest: This project gives insight into the diversity of the city of Mississauga. Diversity can be measure by by various metrics like population by country of origin of the residents in the city or the language spoken by the residents but here I chose a venue type which is ‘Restaurant’ to see if and how much the variety of restaurants and their cuisine type is a reflection of the diversity in the city. 
+Interest: This project gives insight into the diversity of the city of Mississauga. Diversity can be measure by various metrics like population by country of origin of the residents in the city or the language spoken by the residents but here I chose a venue type, ‘Restaurants’, to see if and how much the variety of restaurants and their cuisine type is a reflection of the diversity in the city. This is of interest to those who want to explore the diversity of the city and also for those who want to know want to know if the statement made by the Canadian PM, "Diversity is Canada's Strength" really holds true when it comes to small businesses such as restuarants. 
 
 
 ### Data Source:
