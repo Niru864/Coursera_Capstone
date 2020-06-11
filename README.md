@@ -10,9 +10,11 @@ Mississauga was initially called Toronto Township when it was purchased from the
 
 Canada is a country shaped by its immigrants and their descendants. Toronto, Vancouver and Montreal attract nearly 63% of the immigrant population, with most visible minorities living in urban centres, and Mississauga specifically has 53.7% visible minorities. As of 2011, the three largest visible minorities in Canada are South Asians, Chinese and Blacks and as of 2016, South Asian followed by Blacks and Chinese are the top 3 visible minorities in Peel Region. Mississauga accounts for 52% of the Peel region’s population. Knowing this information, I want to compare the types of restaurants in Mississauga and see if the multicultural characteristic of the city is reflected in the diversity of the restaurants. 
 
-Problem: Can I use 'Restaurants' as a measure of diversity in the city of Mississauga? Is there a correlation between top 5 restaurant types (defined by cuisine) and the top 5 immigrant groups/visible minorities residing in the city? 
+#### Problem: 
+Can I use 'Restaurants' as a measure of diversity in the city of Mississauga? Is there a correlation between top 5 restaurant types (defined by cuisine) and the top 5 immigrant groups/visible minorities residing in the city? 
 
-Interest: This project gives insight into the diversity of the city of Mississauga. Diversity can be measure by various metrics like population by country of origin of the residents in the city or the language spoken by the residents but here I chose a venue type, ‘Restaurants’, to see if and how much the variety of restaurants and their cuisine type is a reflection of the diversity in the city. This is of interest to those who want to explore the diversity of the city and also for those who want to know want to know if the statement made by the Canadian PM, "Diversity is Canada's Strength" really holds true when it comes to small businesses such as restuarants. 
+#### Interest:
+This project gives insight into the diversity of the city of Mississauga. Diversity can be measure by various metrics like population by country of origin of the residents in the city or the language spoken by the residents but here I chose a venue type, ‘Restaurants’, to see if and how much the variety of restaurants and their cuisine type is a reflection of the diversity in the city. This is of interest to those who want to explore the diversity of the city and also for those who want to know want to know if the statement made by the Canadian PM, "Diversity is Canada's Strength" really holds true when it comes to small businesses such as restuarants. 
 
 
 ### Data Source:
